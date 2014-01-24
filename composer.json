@@ -9,5 +9,10 @@
     ],
     "require": {
 
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
     }
 }
