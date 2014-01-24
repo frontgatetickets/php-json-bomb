@@ -1,0 +1,13 @@
+{
+    "name": "frontgatetickets/php-json-bomb",
+    "description": "Simple PHP wrapper around json_* functions with some niceties.",
+    "authors": [
+        {
+            "name": "Jim Howell",
+            "email": "jim.howell@frontgatetickets.com"
+        }
+    ],
+    "require": {
+
+    }
+}
